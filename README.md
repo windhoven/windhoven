@@ -10,7 +10,7 @@ Windhoven is a fictitious model railway in 1:87 scale based on the Marklin 3rail
 
 The code shared on this Git is from projects that can be found within Windhoven.
 The code fits my needs and is not always optimized but working.
-The code will mainly be based on C, C++ or Arduino. 
+The code will mainly be based on C, C++ or Arduino for Atmel microcontrollers. 
 
 # Naming
 The municipality of Windhoven owes its name to the fact that it is always windy there. Due to its windy character, Windhoven is a place where many (wind)mills can be found. Currently three centuries old mills and more will be built. The hot air balloons also make grateful use of the ever-present wind. 
